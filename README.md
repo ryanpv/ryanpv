@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ryan V</h1>
-<h3 align="center">I am a full-stack developer with a bit more focus for the backend. I am located in the Greater Toronto Area of Ontario, Canada. I currently work as a Registered Nurse, but currently looking to transition into a full-time software developer and continue to learn and grow as one.</h3>
+<h1 align="center">Hi 👋, I'm Ryan Voong</h1>
+<p align="center">I am a full-stack developer with a bit more focus for the backend. I am located in the Greater Toronto Area of Ontario, Canada. I currently work as a Registered Nurse, but currently looking to transition into a full-time software developer. I love to solve puzzles and enjoy learning new things to improve myself. Always open to connect and have a chat!</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
