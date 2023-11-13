@@ -26,3 +26,8 @@
 <a href="https://www.mongodb.com/" target="__blank"> <img alt="MongoDB badge" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> </a>
    <br/>
 <p align="center">
+
+<h3 align="center">Currently Learning</h3>
+<p align="center">
+     <a href="https://www.typescriptlang.org/" target="__blank"> <img alt="TypeScript badge" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> </a>
+</p>
