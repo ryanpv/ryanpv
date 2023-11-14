@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan Voong</h1>
-<p align="center">I am a full-stack developer with a bit more focus for the backend. I am located in the Greater Toronto Area of Ontario, Canada. I currently work as a Registered Nurse, but currently looking to transition into a full-time software developer. I love to solve puzzles and enjoy learning new things to improve myself. Always open to connect and have a chat!</p>
+<p align="center">I am a full-stack developer with a bit more focus for the backend. I am located in the Greater Toronto Area of Ontario, Canada. I currently work as a Registered Nurse, but currently looking to transition into a full-time software developer. I love to solve puzzles and enjoy learning new things to improve myself. As I embark on this journey of growth and elevate my capabilities, I hope to learn of ways that I can elevate those around me as well. Always open to connect and have a chat!</p>
 
 <h3 align="center">What I'm currently working on:</h3>
 <p align="center">Currently I've been learning on how video streaming works. Using HLS format, I am leveraging certain AWS services such as Cloudfront CDN, S3, and Lambda to create a video streaming server. This project will allow users to store and serve video content more securely while having scaling capabilities.</p>
