@@ -26,5 +26,6 @@
 <a href="https://www.mongodb.com/" target="__blank"> <img alt="MongoDB badge" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> </a>
      <a href="https://www.typescriptlang.org/" target="__blank"> <img alt="TypeScript badge" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> </a>
      <a href="https://www.postgresql.org/" target="__blank"> <img alt="PostgreSQL badge" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> </a>
+     <a href="https://tailwindcss.com/" target="__blank"> <img alt="PostgreSQL badge" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss"/> </a>
    <br/>
 <p align="center">
