@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan Voong</h1>
-<p align="center">Hello World! I'm a full-stack developer with a background in nursing. I have a passion for problem solving and developing solutions using technology. My background in nursing has taught me the importance people's experiences. I hope to transfer my skills to improve the experiences of users by always trying understanding them better.</p>
+<p align="center">Hello world! I am a full-stack software developer with background experience as a Registered Nurse. My passion lies in problem-solving and continuous learning, and I aim to leverage my background with technology to enhance user experiences.</p>
 
 <h3 align="center">What I'm currently working on:</h3>
 <p align="center">I am developing a beauty service app (nail services) for a personal client. This app aims to provide client users the ability to request, update, and cancel appointments through their own account on the site. Admin users will also have additional features/permissions for more control over appointments and the list of services available. This project is being built with Typescript ReactJS, Typescript ExpressJS, and PostgreSQL.</p>
