@@ -2,7 +2,12 @@
 <p align="center">Hello world! I am a full-stack software developer with background experience as a Registered Nurse. My passion lies in problem-solving and continuous learning, and I aim to leverage my background with technology to enhance user experiences.</p>
 
 <h3 align="center">What I'm currently working on:</h3>
-<p align="center">I am developing a beauty service app (nail services) for a personal client. This app aims to provide client users the ability to request, update, and cancel appointments through their own account on the site. Admin users will also have additional features/permissions for more control over appointments and the list of services available. This project is being built with Typescript ReactJS, Typescript ExpressJS, and PostgreSQL.</p>
+<p align="center">Recently, I've collaborated with nail industry professionals to develop a web-application to help them manage their busisness and appointment bookings. 
+              You can view the MVP at <a href='https://www.polishbycin.com' target='_blank' rel='noreferrer'><i>https://polishbycin.com</i></a>. 
+              More updates are to come as we decide on new features to improve the user experience.</p>
+
+<p align="center"> In the mean time, I am currently exploring mobile developement using React-Native. As part of this learning journey, I am working on an app that enables users to upload their own videos.
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
