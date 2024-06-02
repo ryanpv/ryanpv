@@ -11,6 +11,11 @@
    <a href='https://github.com/ryanpv/mobile-job-app' target='_blank' rel='noreferrer'><i>Github - Mobile App</i></a>.             
 </p>
 
+<p align="center"> As a break from those other things, I'm diving a bit more into understanding some AI basics.
+   This is the non-technical course at Coursera that I recommend to anyone wanting to learn the same: &nbsp;
+   <a href='https://www.coursera.org/learn/ai-for-everyone' target='_blank' rel='noreferrer'><i>AI For Everyon - By Andrew Ng (Founder of DeepLearning.AI)</i></a>.             
+</p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="ryanpvoong@gmail.com" target="__blank"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ryanpvoong@gmail.com"/></a>
