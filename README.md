@@ -13,7 +13,7 @@
 
 <p align="center"> As a break from those other things, I'm diving a bit more into understanding some AI basics.
    This is the non-technical course at Coursera that I recommend to anyone wanting to learn the same: &nbsp;
-   <a href='https://www.coursera.org/learn/ai-for-everyone' target='_blank' rel='noreferrer'><i>AI For Everyon - By Andrew Ng (Founder of DeepLearning.AI)</i></a>.             
+   <a href='https://www.coursera.org/learn/ai-for-everyone' target='_blank' rel='noreferrer'><i>AI For Everyone - By Andrew Ng (Founder of DeepLearning.AI)</i></a>.             
 </p>
 
 <h3 align="center">Connect with me:</h3>
