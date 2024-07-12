@@ -6,9 +6,7 @@
               You can view the MVP at <a href='https://www.polishbycin.com' target='_blank' rel='noreferrer'><i>https://polishbycin.com</i></a>. 
               More updates are to come as we decide on new features to improve the user experience.</p>
 
-<p align="center"> In the mean time, I am currently exploring mobile developement using React-Native. As part of this learning journey, I am working on an app that enables users to upload their own videos.
-   You can follow the code progress with me here: &nbsp;
-   <a href='https://github.com/ryanpv/mobile-job-app' target='_blank' rel='noreferrer'><i>Github - Mobile App</i></a>.             
+<p align="center"> In the mean time, I am currently exploring how to use the python programming language.    
 </p>
 
 <p align="center"> As a break from those other things, I'm diving a bit more into understanding some AI basics.
