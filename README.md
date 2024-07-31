@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ryan Voong</h1>
 <p align="center">Hello world! I am a full-stack software developer with background experience as a Registered Nurse. My passion lies in problem-solving and continuous learning, and I aim to leverage my background with technology to enhance user experiences.</p>
 
-<h3 align="center">What I'm currently working on:</h3>
+<h3 align="center">My latest work:</h3>
 <p align="center">Recently, I've collaborated with nail industry professionals to develop a web-application to help them manage their busisness and appointment bookings. 
               You can view the MVP at <a href='https://www.polishbycin.com' target='_blank' rel='noreferrer'><i>https://polishbycin.com</i></a>. 
               More updates are to come as we decide on new features to improve the user experience.</p>
 
-<p align="center"> In the mean time, I am currently exploring how to use the python programming language.    
+<p align="center"> In the mean time, I am working on improving my skills in Python to help me dive into more AI/ML projects.    
 </p>
 
 <p align="center"> As a break from those other things, I'm diving a bit more into understanding some AI basics.
