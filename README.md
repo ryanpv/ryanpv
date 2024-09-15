@@ -6,7 +6,8 @@
               You can view the MVP at <a href='https://www.polishbycin.com' target='_blank' rel='noreferrer'><i>https://polishbycin.com</i></a>. 
               More updates are to come as we decide on new features to improve the user experience.</p>
 
-<p align="center"> In the mean time, I am working on improving my skills in Python to help me dive into more AI/ML projects.    
+<p align="center"> 
+In the meantime, I am working on improving my Python skills to dive deeper into AI and machine learning projects. I'm currently working on a React Native application that will integrate computer vision technology to encourage greater engagement in personal health."
 </p>
 
 <p align="center"> As a break from those other things, I'm diving a bit more into understanding some AI basics.
