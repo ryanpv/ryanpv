@@ -7,7 +7,7 @@
               More updates are to come as we decide on new features to improve the user experience.</p>
 
 <p align="center"> 
-In the meantime, I am working on improving my Python skills to dive deeper into AI and machine learning projects. I'm currently working on a React Native application that will integrate computer vision technology to encourage greater engagement in personal health."
+In the meantime, I am working on improving my Python skills to dive deeper into AI and machine learning projects. I'm currently working on a React Native application that will integrate computer vision technology to encourage greater engagement in personal health.
 </p>
 
 <p align="center"> As a break from those other things, I'm diving a bit more into understanding some AI basics.
