@@ -1,18 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ryan Voong</h1>
 <p align="center">Hello world! I am a full-stack software developer with background experience as a Registered Nurse. My passion lies in problem-solving and continuous learning, and I aim to leverage my background with technology to enhance user experiences.</p>
 
-<h3 align="center">My latest work:</h3>
-<p align="center">Recently, I've collaborated with nail industry professionals to develop a web-application to help them manage their busisness and appointment bookings. 
-              You can view the MVP at <a href='https://www.polishbycin.com' target='_blank' rel='noreferrer'><i>https://polishbycin.com</i></a>. 
-              More updates are to come as we decide on new features to improve the user experience.</p>
+<h3 align="center">What I'm currently working on:</h3>
+<p align="center">Recently, I have been diving more into machine learning technologies, such as TensorFlow and TensorFlow.js. With widespread use of machine learning in major industries, such as healthcare, I believe it is important to understand the potential positive impacts it can have on society. My aim is to use my skills and knowledge as a software developer to try and implement models in impactful projects and have fun while doing it!</p>
 
-<p align="center"> 
-In the meantime, I am working on improving my Python skills to dive deeper into AI and machine learning projects. I'm currently working on a React Native application that will integrate computer vision technology to encourage greater engagement in personal health.
-</p>
-
-<p align="center"> As a break from those other things, I'm diving a bit more into understanding some AI basics.
-   This is the non-technical course at Coursera that I recommend to anyone wanting to learn the same: &nbsp;
-   <a href='https://www.coursera.org/learn/ai-for-everyone' target='_blank' rel='noreferrer'><i>AI For Everyone - By Andrew Ng (Founder of DeepLearning.AI)</i></a>.             
+<p align="center"> On my free time I love to watch anime, kdramas, drinking bubble tea, and also play video games. I like to play RPGs mostly because I enjoy a good story plot. If you have any recommendations or just want to chat about anything like "Do you consider One Piece to be one of the big three?" then reach out to me!           
 </p>
 
 <h3 align="center">Connect with me:</h3>
