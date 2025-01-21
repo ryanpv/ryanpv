@@ -4,6 +4,7 @@
 <h3 align="center">What I'm currently working on:</h3>
 <p align="center">Recently, I have been diving more into machine learning technologies, such as TensorFlow and TensorFlow.js. With widespread use of machine learning in major industries, such as healthcare, I believe it is important to understand the potential positive impacts it can have on society. My aim is to use my skills and knowledge as a software developer to try and implement models in impactful projects and have fun while doing it!</p>
 
+<h3 align="center">Hobbies and interests:</h3>
 <p align="center"> On my free time I love to watch anime, kdramas, drinking bubble tea, and also play video games. I like to play RPGs mostly because I enjoy a good story plot. If you have any recommendations or just want to chat about anything like "Do you consider One Piece to be one of the big three?" then reach out to me!           
 </p>
 
